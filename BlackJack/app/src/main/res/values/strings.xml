@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+
+    <string name="text_player">&#9829;Player：</string>
+    <string name="text_dealer">&#9824;Dealer：</string>
+
+    <string name="text_dealer_score">"??"</string>
+
+    <string name="btn_battle">Battle</string>
+    <string name="btn_draw">Draw</string>
+
+    <string name="result_title">GAME RESULT</string>
+    <string name="result_btn_retry">RETRY</string>
+    <string name="result_btn_end">END</string>
+    <string name="result_win">You win!!</string>
+    <string name="result_lose">You Lose&#8230;</string>
+    <string name="result_draw">Draw.</string>
+
+</resources>
