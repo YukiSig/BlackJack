@@ -26,7 +26,7 @@ import java.util.List;
 /**
  * BlackJack's Game table Activity.
  *
- * Created by mai.yamane on 2017/07/14.
+ * Created by yuka.mishima on 2017/07/14.
  */
 
 public class GameActivity extends Activity {
